@@ -28,9 +28,7 @@
 
 ### 🍭 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=lnoom&repo=stare
-&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/lnoom/stare)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=lnoom&repo=JavaGuide&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/lnoom/JavaGuide)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=lnoom&repo=stare&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/lnoom/stare)
 <br>
 
 ### 🔥 Github 活跃度
