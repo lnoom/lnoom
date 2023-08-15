@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Program&message=Vue&color=blue"/>
-  <img src="https://img.shields.io/static/v1?label=Language&message=JavaScript&color=yellow"/>
+  <img src="https://img.shields.io/static/v1?label=Language&message=Java&color=yellow"/>
   <a href="https://space.bilibili.com/474536635"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=pink"/></a>
 </p>
 <br>
