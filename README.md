@@ -36,7 +36,7 @@
 ![lnoom's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnoom&custom_title=宇之追寻的统计数据&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
 
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=lnoom&theme=dracula&custom_title=编程细胞的心电图&radius=10)
+![](https://github-readme-activity-graph.vercel.app/graph?username=lnoom&theme=dracula&custom_title=宇之追寻的心电图&radius=10)
 <br>
   
 </details>
